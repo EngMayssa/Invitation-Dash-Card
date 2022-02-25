@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053191705809",
+    "project_id": "dash-3d866",
+    "storage_bucket": "dash-3d866.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053191705809:android:e27db4d7c88c4f4e7fe1f0",
+        "android_client_info": {
+          "package_name": "com.example.dash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053191705809-c9mb0a7vsgomkmv953u86896lijoruhj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dash",
+            "certificate_hash": "4ef5686fbf733217c7c3973c0e6f21f73489de44"
+          }
+        },
+        {
+          "client_id": "1053191705809-qvi1ga0ks0po2v0j3moq55puc3sjjiot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk14Uthma3sSlbJU6lGONO9EGi4bpMMW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053191705809-qvi1ga0ks0po2v0j3moq55puc3sjjiot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
